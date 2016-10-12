@@ -1,0 +1,21 @@
+{
+  "name": "automation-exam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.spec.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "jasmine-reporters": "^2.2.0",
+    "jasmine-spec-reporter": "^2.7.0",
+    "protractor": "^4.0.9",
+    "protractor-html-screenshot-reporter": "0.0.21"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
